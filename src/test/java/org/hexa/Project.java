@@ -12,4 +12,14 @@ public class Project {
 	private void telugu() {
 		System.out.println("3");
 	}
+	private void n() {
+		System.out.println("3");
+	}
+	private void m() {
+		System.out.println("3");
+	}
+	private void o() {
+		System.out.println("3");
+	}
+	
 }
